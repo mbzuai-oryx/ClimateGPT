@@ -23,7 +23,7 @@ You can try our demo using the following links :
 
 [ClimateGPT](https://66e641bcc04d5483fb.gradio.live/).
 
-[ClimateGPT (العربية)](https://66e641bcc04d5483fb.gradio.live/).
+[ClimateGPT (العربية)](https://6d405a1d9b82c92451.gradio.live/).
 
 
 ## About ClimateGPT
