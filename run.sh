@@ -1,0 +1,1 @@
+python3 -m fastchat.serve.cli --model-path weights/ClimateGPT-en --style rich
