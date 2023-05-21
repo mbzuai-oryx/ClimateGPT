@@ -31,7 +31,7 @@ You can try our demo using the following links :
 
 + ClimateGPT is a specialized Language Model (LLM) developed on top of Vicuna framework and fine-tuned specifically for Climate Change and Sustainability topics in both English and Arabic languages.
 + We introduce a vector embedding and datastore framework, which can be utilized during model inference for information retrieval without the need for additional training.
-+ We have generated over 500k interactive conversational-style samples (Question & Answers) based on the [ClimaBench](https://arxiv.org/abs/2301.04253) and [CCMRC Climate Change](https://www.ijcai.org/proceedings/2022/729) datasets. This augmentation of interactive conversational data greatly enhances the performance of LLMs through the fine-tuning process. Our proposed dataset (Clima500) is available on [HuggingFace](https://huggingface.co/datasets/mbzuai-oryx/Clima500/tree/main). The instruction for Dataset creation will be released soon.
++ We have generated over 500k interactive conversational-style samples (Question & Answers) based on the public benchmarks for climate change related datasets. This augmentation of interactive conversational data greatly enhances the performance of LLMs through the fine-tuning process. Our proposed dataset (Clima500) will be available on HuggingFace. The instruction for Dataset creation will be released soon.
 + To the best of our knowledge, this marks the first release substantial conversational-style Arabic dataset (Question & Answers) dedicated to climate change and sustainability, comprising over 500k samples, dedicated to climate change and sustainability. The Arabic dataset will be released soon.
 
 ![overview](assets/ClimateGPT_overall.gif)
@@ -65,9 +65,14 @@ pip install -e .
 
 **1. Prepare the Datasets for training**
 
-Download our Clima500 dataset from [here](https://huggingface.co/datasets/mbzuai-oryx/Clima500/tree/main) & our fine-tuned model checkpoint from [here](https://huggingface.co/mbzuai-oryx/ClimateGPT/tree/main).
+The Clima500 Dataset, along with the dataset instructions details, will be released soon. Stay tuned for further updates!
 
-**2. Prepare the pretrained Vicuna weights**
+
+**2. Fine-Tuned Model**
+
+Download fine-tuned model checkpoint can be downloaded from [here](https://huggingface.co/mbzuai-oryx/ClimateGPT/tree/main).
+
+**3. Prepare the pretrained Vicuna weights**
 
 We built ClimateGPT on the v1.1 version of Vicuna-7B.
  
