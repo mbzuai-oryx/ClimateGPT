@@ -21,9 +21,9 @@
 ## Online Demo
 You can try our demo using the following links :
 
-[ClimateGPT](https://ef780615b15e1a3bdf.gradio.live).
+[ClimateGPT](https://a316ef17aba684f4f4.gradio.live).
 
-[ClimateGPT (العربية)](https://5a5770f0998e103023.gradio.live).
+[ClimateGPT (العربية)](https://d035320e035f82cca7.gradio.live).
 
 
 ## About ClimateGPT
