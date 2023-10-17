@@ -1,4 +1,4 @@
-# ClimateGPT
+# ClimateGPT (EMNLP 2023)
 ![](https://i.imgur.com/waxVImv.png)
 
 [Sahal Shaji Mullappilly](https://scholar.google.com/citations?user=LJWxVpUAAAAJ&hl=en)* , [Abdelrahman Shaker](https://amshaker.github.io/)* , [Omkar Thawakar](https://omkarthawakar.github.io/)* , [Hisham Cholakkal](https://scholar.google.com/citations?hl=en&user=bZ3YBRcAAAAJ), [Rao Muhammad Anwer](https://scholar.google.com/citations?hl=en&authuser=1&user=_KlvMVoAAAAJ), [Salman Khan](https://salman-h-khan.github.io/), and [Fahad Shahbaz Khan](https://scholar.google.es/citations?user=zvaeYnUAAAAJ&hl=en). 
@@ -14,6 +14,8 @@
 
 ## :rocket: News
 <hr>
+
++ Oct-8 : Accepted to Findings of EMNLP 2023
 
 + May-20 : Our code, models, and pre-processed datasets for English version are released. We will release everything related to the Arabic version as well as the technical report soon.
 
