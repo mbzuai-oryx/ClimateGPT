@@ -8,14 +8,14 @@
 **Mohamed bin Zayed University of Artificial Intelligence, UAE**
 
 
-<a href='#'><img src='https://img.shields.io/badge/Project-Page-Green'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/2NKiujOJnqI) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/0CGb9jzxV1U)
+[![paper](https://img.shields.io/badge/Paper-EMNLP_23-blue)](https://aclanthology.org/2023.findings-emnlp.941/) <a href='#'><img src='https://img.shields.io/badge/Project-Page-Green'></a> [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/2NKiujOJnqI) [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/0CGb9jzxV1U)
 
 
 
 ## :rocket: News
 <hr>
 
-+ Oct-8 : Accepted to Findings of EMNLP 2023
++ Oct-8 : Accepted to Findings of EMNLP 2023 [Paper Link](https://aclanthology.org/2023.findings-emnlp.941/)
 
 + May-20 : Our code, models, and pre-processed datasets for English version are released. We will release everything related to the Arabic version as well as the technical report soon.
 
@@ -141,12 +141,29 @@ Refer [Gradio Web GUI](https://github.com/lm-sys/FastChat#serving-with-web-gui) 
 ![example 3](assets/Arabic_example_1.png)  |  ![example 4](assets/Arabic_example_2.png)
 
 
+## 📜 Citation
+```bibtex
+  @inproceedings{mullappilly2023arabic,
+  title={Arabic Mini-ClimateGPT: A Climate Change and Sustainability Tailored Arabic LLM},
+  author={Mullappilly, Sahal and Shaker, Abdelrahman and Thawakar, Omkar and Cholakkal, Hisham and Anwer, Rao and Khan, Salman and Khan, Fahad},
+  booktitle={Findings of the Association for Computational Linguistics: EMNLP 2023},
+  pages={14126--14136},
+  year={2023}
+}
+```
+
+
 ## Acknowledgement
 <hr>
 
 + [Vicuna](https://github.com/lm-sys/FastChat) : The fantastic language ability of Vicuna is just amazing. And it is open-source!
 + [ChromaDB](https://github.com/chroma-core/chroma) : Chroma - the open-source embedding database.
 + [LangChain](https://github.com/hwchase17/langchain) : Building applications with LLMs through composability
+
+We would like to thank our colleagues at MBZUAI for their essential contribution to the Evaluation and Dataset verification tasks, including Dr. Jean Lahoud, Abdelrahman Shaker, Salwa Al Khatib, Mohamed El Amine Boudjoghra, Aisha Fahad Ahmed Ali Alraeesi, 
+Amna Abdelrahim Nasir Abdalla Alhosani, Hour Eisa Abdelrahim Ahmed Mohamed, Hosam Mahmoud Abdalla Ahmed Ali Elgendy, Yahia Dalbah, Mohammed Almansoori, without which this project would not be possible.
+
+The computational resources were provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725, and by the Berzelius resource, provided by the Knut and Alice Wallenberg Foundation at the National Supercomputer Centre.
 
 ## License
 This repository is licensed under CC BY-NC-SA. Please refer to the license terms [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
