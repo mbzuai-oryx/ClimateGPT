@@ -15,6 +15,8 @@
 ## :rocket: News
 <hr>
 
++ Jan-30 : Clima500 English Dataset is released [Clima500](https://huggingface.co/datasets/mbzuai-oryx/Clima500)
+
 + Oct-8 : Accepted to Findings of EMNLP 2023 [Paper Link](https://aclanthology.org/2023.findings-emnlp.941/)
 
 + May-20 : Our code, models, and pre-processed datasets for English version are released. We will release everything related to the Arabic version as well as the technical report soon.
