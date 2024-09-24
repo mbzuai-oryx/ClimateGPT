@@ -167,7 +167,7 @@ Amna Abdelrahim Nasir Abdalla Alhosani, Hour Eisa Abdelrahim Ahmed Mohamed, Hosa
 
 The computational resources were provided by the National Academic Infrastructure for Supercomputing in Sweden (NAISS), partially funded by the Swedish Research Council through grant agreement no. 2022-06725, and by the Berzelius resource, provided by the Knut and Alice Wallenberg Foundation at the National Supercomputer Centre.
 
-This project is partially supported with Google Research Award titled  *"A Climate Change and Sustainability Tailored Arabic LLM"*
+This project is partially supported with Google Research Award titled  *"A Climate Change and Sustainability Tailored Arabic LLM"*.
 
 ## License
 This repository is licensed under CC BY-NC-SA. Please refer to the license terms [here](https://creativecommons.org/licenses/by-nc-sa/4.0/).
